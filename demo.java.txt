@@ -1,6 +1,4 @@
 public class Addition{
 
-    static void m1(int i, int j){
-      return i+j;
-    }
+   
 }
